@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\bin\Debug\net8.0\Lotto.exe
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\bin\Debug\net8.0\Lotto.deps.json
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\bin\Debug\net8.0\Lotto.runtimeconfig.json
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\bin\Debug\net8.0\Lotto.dll
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\bin\Debug\net8.0\Lotto.pdb
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\obj\Debug\net8.0\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\obj\Debug\net8.0\Lotto.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\obj\Debug\net8.0\Lotto.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\obj\Debug\net8.0\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\obj\Debug\net8.0\Lotto.dll
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\obj\Debug\net8.0\refint\Lotto.dll
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\obj\Debug\net8.0\Lotto.pdb
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\obj\Debug\net8.0\Lotto.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\C#_Console\Lotto\Lotto\obj\Debug\net8.0\ref\Lotto.dll
