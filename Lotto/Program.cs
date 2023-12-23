@@ -8,7 +8,7 @@ class Program
         Console.WriteLine("Witaj w grze Lotto!");
 
         
-        int[] lottoNumbers = GenerateLottoNumbers();
+        int[] lottoNumbers = GenerateNumbers();
 
        
         int[] userNumbers = GetUserNumbers();
