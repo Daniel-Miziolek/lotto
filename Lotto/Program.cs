@@ -60,7 +60,7 @@
                         Console.WriteLine("Congratualtions + 40!");
                         money += 40;
                     }
-                    if (matchingNumbers == 2)
+                    if (matchingNumbers == 3)
                     {
                         Console.WriteLine("Congratualtions + 30!");
                         money += 30;
