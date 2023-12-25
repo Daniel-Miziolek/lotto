@@ -13,7 +13,7 @@
                 Console.WriteLine("\n");
                 Console.WriteLine("Account balance: " + money);
                 Console.WriteLine("\n");
-                Console.WriteLine("1.Lotto - cost: 20, 1 correct number = 10zł.");
+                Console.WriteLine("1.Lotto - cost: 10, 1 correct number = 10zł.");
                 Console.WriteLine("2.End.");
                 Console.Write("Choose optione: ");
                 int choose = int.Parse(Console.ReadLine());
